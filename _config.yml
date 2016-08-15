@@ -1,3 +1,4 @@
+layout_spectrum: 0.14496597461402416
 typography_spectrum: 0.6768954482395202
 color:
   brandStrength: 0.4592773290351033
@@ -5,12 +6,9 @@ color:
   saturation: 0.8292863185051829
   rhythmicContrast: 0.25062577216885984
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.14496597461402416
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Annisite
-title: WELCOME TO ANNISITE
-description: ANNIE
